@@ -1,0 +1,236 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "X",
+      "main_ads_intertitial":"X",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"QWERT12345",
+      "backup_ads_intertitial":"QWERT12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/GGA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/GGB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA1.mp3",
+    "lyrics": "<p>Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman sempet sayang kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang ngek i harapan koe milih liyane</p><p><br />Langit e peteng udane soyo deres klebus tekan atiku<br />Cedak e karo aku nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang aku sing berjuang<br />Bagianmu koyo biasane bagian sing nglarani aku wae</p><p><br />Langit e peteng udane soyo deres klebus tekan atiku<br />Cedak e karo aku nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang aku sing berjuang<br />Bagianmu koyo biasane bagian sing nglarani</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang aku sing berjuang<br />Bagianmu koyo biasane bagian sing nglarani aku wae</p><p><br />Bagianmu koyo biasane bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA2.mp3",
+    "lyrics": "<p>Kok iso yo?<br />Kok tegel yo?<br />Opo salahku?<br />Ning endi luputku?</p><p><br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat (ati sing kuat)<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Wayah mongso udan teko (wayah mongso udan teko)<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p>&nbsp;</p><p>Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo? (Kok iso yo?)<br />Kok tegel yo? (Kok tegel yo?)<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo?</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "PINGAL",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA3.mp3",
+    "lyrics": "<p>Piye<br />Sing njelaske karo wong tuo?<br />Wes nglakoni tekan semene<br />Nek akhire bakal bubar pisahan<br />Kowe kegodo, tresno karo wong liyo</p><p><br />Nglali<br />Kowe sing tau omong dewe<br />Nglakoni tresno tekan tuo<br />Ora ngeliyo, mung aku ning atimu<br />Nanging saiki atimu ono wong liyo</p><p><br />Ibarat esuk mendung<br />Awan aku kudanan<br />Sore mbok larani<br />Bengi tak tangisi</p><p><br />Mung isoh mbayangke kabeh kenangan<br />Kowe tak boncengke<br />Turut ndalan, kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku?<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ibarat esuk mendung<br />Awan aku kudanan<br />Sore mbok larani<br />Bengi tak tangisi</p><p><br />Mung isoh mbayangke kabeh kenangan<br />Kowe tak boncengke<br />Turut ndalan, kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku?<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "KELANGAN",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA4.mp3",
+    "lyrics": "<p>Cobo sawangen aku<br />Rasakno tekan atimu<br />Iseh kurang opo aku<br />Nresnani sliramu?</p><p><br />Padange rembulan, gemerlape lintang<br />Ngelingake ati jaman sesandingan<br />Janjimu ning aku, ora ninggal aku<br />Cintamu mung palsu</p><p><br />Opo isih ono aku ning njero atimu?<br />Sak uwise kowe lungo ninggalke ati<br />Tulus suci anggone lehku nresnani</p><p><br />Durung percoyo<br />Nopo kowe milih lungo ninggalke aku dewe?<br />Sak tenane ati iki<br />Durung iso nompo kowe karo liyane</p><p>&nbsp;</p><p>Padange rembulan, gemerlape lintang<br />Ngelingake ati jaman sesandingan<br />Janjimu ning aku, ora ninggal aku<br />Cintamu mung palsu</p><p><br />Opo (isih ono) isih ono aku ning njero atimu?<br />Sak uwise kowe lungo ninggalke ati<br />Tulus suci anggone lehku nresnani, ho-oh</p><p><br />Durung percoyo (kowe lungo)<br />Nopo kowe milih lungo ninggalke aku dewe?<br />Sak tenane ati iki<br />Durung iso nompo kowe karo liyane</p><p><br />Sejatine<br />Aku isih sayang kowe</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "NIGGAL CERITO",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA5.mp3",
+    "lyrics": "<p>Ning kutho iki aku nemoni<br />Wong sing paling tak tresnani<br />Sing tak sayang sayang<br />Tekane mati</p><p><br />Nanging anane mung crito loro<br />Kowe pancen tego, kowe ra rumongso<br />Anane mung gawe cidro</p><p><br />Aku ngrumangsani<br />Tekaku ra dikarepke ati<br />Aku sadar diri<br />Tekoku mung nggriseni</p><p><br />Kowe teko nggowo crito loro<br />Kowe lungo ninggalke loro loro<br />Ning purwokerto aku nduweni cerito<br />Kowe ngaboti tresno sing liyo</p><p><br />Ning kutho iki aku nemoni<br />Wong sing paling tak tresnani<br />Sing tak sayang sayang<br />Tekane mati</p><p><br />Nanging anane mung crito loro<br />Kowe pancen tego, kowe ra rumongso<br />Anane mung gawe cidro<br />Aku ngrumangsani<br />Tekaku ra dikarepke ati</p><p><br />Aku sadar diri<br />Tekoku mung nggriseni<br />Kowe teko nggowo crito loro<br />Kowe lungo ninggalke loro loro</p><p><br />Ning Purwokerto aku nduweni cerito<br />Kowe ngaboti tresno sing liyo<br />Kowe teko nggowo crito loro<br />Kowe lungo ninggalke loro loro</p><p><br />Ning Purwokerto aku nduweni cerito<br />Kowe ngaboti tresno sing liyo</p><p><br />Ning Purwokerto aku nduweni ce-ri-to<br />Kowe ngaboti tresno sing liyo</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "PISAH",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA6.mp3",
+    "lyrics": "<p>Kowe sing ono ning atiku<br />Teko tanpo tak kiro<br />Ning tengah ati sing wes dadi siji<br />Abot ninggalke tresnoku<br />Tanpo ngerti opo sebab lan kesalahanku</p><p><br />Tekan saiki, aku ora iso lali<br />Lakumu sing gawe bungahe ati<br />Sumilire angin tengah wengi<br />Sing gawe tentrem ning njero ati<br />Aku kudu nrimo<br />Aku karo kowe pancen ora iso</p><p><br />Nanging awak dewe<br />Kudu iso nompo<br />Nompo kahanan sing<br />Ra iso dipeksakke</p><p><br />Netes banyu moto<br />Gawe loro ning njero dodo<br />Ati iki iseh tresno<br />Kepekso pisah mergo wong tuwo</p><p><br />Dudu salahku karo kowe<br />Kahanan mekso koyo ngene<br />Mugo kowe bahagia<br />Karo wong liyo sing luwih soko aku</p><p><br />Tekan saiki, aku ora iso lali<br />Lakumu sing gawe bungahe ati<br />Sumilire angin tengah wengi<br />Sing gawe tentrem ning njero ati<br />Aku kudu nrimo<br />Aku karo kowe pancen ora iso</p><p><br />Netes banyu moto<br />Gawe loro ning njero dodo<br />Ati iki iseh tresno<br />Kepekso pisah mergo wong tuwo</p><p><br />Dudu salahku karo kowe<br />Kahanan mekso koyo ngene<br />Mugo kowe bahagia<br />Karo wong liyo sing luwih soko aku<br />Karo wong liyo sing luwih soko aku</p><p><br />Karo wong liyo sing mungkin dudu aku</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "PERLAHAN",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA7.mp3",
+    "lyrics": "<p>Memang salahku<br />Terlalu dingin denganmu<br />Terlalu mendiamkan mu</p><p><br />Kau yang selalu<br />Memperhatikanku<br />Dan sebenarnya aku juga begitu</p><p><br />Maafkan ku<br />Yang selalu membuat mu<br />Terlalu lama menunggu<br />Hingga akhirnya kau pergi tinggalkan aku</p><p><br />Perlahan engkau pun menjauh dari diriku<br />Melupakan semua yang telah terjadi<br />Jika harus meninggalkan diriku untuknya<br />Tak rela kau dengannya</p><p><br />Memang salahku<br />Terlalu dingin denganmu<br />Terlalu mendiamkan mu</p><p><br />Kau yang selalu<br />Memperhatikanku<br />Dan sebenarnya aku juga begitu</p><p><br />Maafkan ku<br />Yang selalu membuat mu<br />Terlalu lama menunggu<br />Hingga akhirnya kau pergi tinggalkan aku</p><p><br />Perlahan engkau pun menjauh dari diriku<br />Melupakan semua yang telah terjadi<br />Jika harus meninggalkan diriku untuknya<br />Tak rela</p><p><br />Perlahan engkau pun menjauh dari diriku<br />Melupakan semua yang telah terjadi<br />Jika harus meninggalkan diriku untuknya<br />Tak rela kau dengannya</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "MENEPI",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA8.mp3",
+    "lyrics": "<p>Mencintai dalam sepi dan rasa sabar mana lagi<br />Yang harus ku pendam dalam mengagumi dirimu<br />Melihatmu genggam tangannya nyaman di dalam pelukannya<br />Yang mampu membuatku tersadar dan sedikit menepi</p><p><br />Kau yang pernah singgah di sini<br />Dan cerita yang dulu engkau ingatkan kembali<br />Tak mampu aku tuk mengenang lagi<br />Biarlah kenangan kita pupus di hati</p><p><br />Tak ada waktu kembali untuk mengulang lagi<br />Mengenang dirimu diawal dulu<br />Ku tahu dirimu dulu hanya meluangkan waktu<br />Sekedar melepas kisah sedihmu</p><p><br />Mencintai dalam sepi dan rasa sabar mana lagi<br />Yang harus ku pendam dalam mengagumi dirimu<br />Melihatmu genggam tangannya nyaman di dalam pelukannya<br />Yang mampu membuatku tersadar dan sedikit menepi</p><p><br />Tak ada waktu kembali untuk mengulang lagi<br />Mengenang dirimu diawal dulu<br />Ku tahu dirimu dulu hanya meluangkan waktu<br />Sekedar melepas kisah sedihmu</p><p><br />Mencintai dalam sepi dan rasa sabar mana lagi<br />Yang harus ku pendam dalam mengagumi dirimu oh<br />Melihatmu genggam tangannya nyaman di dalam pelukannya<br />Yang mampu membuatku tersadar dan sedikit menepi</p><p><br />Mencintai dalam sepi dan rasa sabar mana lagi<br />Yang harus ku pendam dalam mengagumi dirimu oh<br />Melihatmu genggam tangannya nyaman di dalam pelukannya<br />Yang mampu membuatku tersadar dan sedikit menepi<br />Tersadar dan sedikit menepi<br />Tersadar dan sedikit menepi</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "AJUR MUMUR",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA9.mp3",
+    "lyrics": "<p>Uwes tak sadari aku ra sempurno<br />Nanging atimu kuwi luweh olo<br />Atos omonganmu nglarani atiku<br />Wes tak turuti kekarepanmu</p><p><br />Terus ngulayani atiku sing suci<br />Ku bertahan tetep tak lakoni<br />Kowe milih kae ngingkari janjimu<br />Aku ngerti cintamu palsu</p><p><br />Nangis pilu, garing banyu motoku<br />Kelingan esemmu gawe ku bertahan<br />Nanging perih merelakan cinta ini<br />Ajur mumur uripku nyanding karo sliramu</p><p><br />Terus ngulayani atiku sing suci<br />Ku bertahan tetep tak lakoni<br />Kowe milih kae ngingkari janjimu<br />Aku ngerti cintamu palsu</p><p><br />Luputku mileh kowe<br />Nyesel nemokke kowe<br />Wes ra butuh sayangmu<br />Tak cobo ngilangke roso</p><p><br />Nangis pilu, garing banyu motoku<br />Kelingan esemmu gawe ku bertahan<br />Nanging perih merelakan cinta ini<br />Ajur mumur uripku nyanding karo sliramu</p><p><br />Nangis pilu, garing banyu motoku<br />Kelingan esemmu gawe ku bertahan<br />Nanging perih merelakan cinta ini<br />Ajur mumur uripku nyanding karo sliramu</p><p><br />Ajur mumur uripku nyanding karo sliramu</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "SEBATAS TEMAN",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA10.mp3",
+    "lyrics": "<p>Aku wong sek pernah<br />Teko neng uripmu<br />Nanging aku durung iso<br />Dadi pilihanmu</p><p><br />Aku wong sek pernah<br />Merjuangke ati<br />Dinggo koe, cah ayu<br />Sing wes tak gemateni</p><p><br />Koe ra tau ngerasakke<br />Kabeh wes tak perjuangke<br />Namun kenyataan engkau sia-siakan<br />Dan setelahnya hanya kau anggap teman</p><p><br />Pancen kabeh salahku mbuka ati nggo sliramu<br />Sek jelas-jelas ra iso nompo pengarepanku<br />Yen pancen koe ra iso nompo opo anane<br />Tak milih lungo wae</p><p><br />Arep sak gedhene opo aku merjuangke<br />Tresnoku dinggo koe mung tok sepelekke<br />Mungkin hanya dalam mimpi 'ku dapat memiliki<br />Dirimu sepenuh hati</p><p><br />Koe ra tau ngerasakke<br />Kabeh wes tak perjuangke<br />Tapi kenyataan engkau sia-siakan<br />Dan setelahnya hanya kau anggap teman</p><p><br />Pancen kabeh salahku mbuka ati nggo sliramu<br />Sek jelas-jelas ra iso nompo pengarepanku<br />Yen pancen koe ra iso nompo opo anane<br />Tak milih lungo wae</p><p><br />Arep sak gedhene opo aku merjuangke<br />Tresnoku dinggo koe mung tok sepelekke<br />Mungkin hanya dalam mimpi 'ku dapat memiliki<br />Dirimu sepenuh hati</p><p><br />Mungkin hanya dalam mimpi 'ku dapat memiliki<br />Dirimu sepenuh hati</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "WIDODARI",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA11.mp3",
+    "lyrics": "<p>Tembangan sepeleku<br />Tondo seneng marangmu<br />Kar'na ku terpuruk sendiri dalam hampa<br />Dan kau datang merubah cerita</p><p><br />Aku nemu widodari<br />Motomu kebak pelangi<br />Hadirmu dalam hidupku beriku warna<br />Dari kisah masa lalu yang pernah terluka</p><p><br />Ku pernah terjatuh, ku pernah ditinggalkan<br />Pupus cerita, tinggallah impian<br />Maha Sempurna Tuhan<br />Kirimkan kau untukku, kekasih yang tulus<br />Dan kisah kelamku, kini hilang terhapus</p><p><br />Sayang, gondelono atiku<br />Yen takdire gandeng, yo bakale gandeng<br />Tuhan, terima kasih, hadirkan penjaga hatiku<br />Yang s'lalu setia menemaniku</p><p><br />Ku pernah terjatuh, ku pernah ditinggalkan<br />Pupus cerita, tinggallah impian<br />Oh, Maha Sempurna Tuhan<br />Kirimkan kau untukku, kekasih yang tulus<br />Dan kisah kelamku, kini hilang terhapus</p><p><br />Sayang, gondelono atiku<br />Yen takdire gandeng, yo bakale gandeng<br />Tuhan, terima kasih, hadirkan penjaga hatiku<br />Yang s'lalu setia menemaniku</p><p><br />Sayang, gondelono atiku<br />Yen takdire gandeng, yo bakale gandeng<br />Oh, Tuhan, terima kasih, hadirkan penjaga hatiku<br />Yang s'lalu setia menemaniku</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "TERBARU",
+    "title": "DALAN LIYANE",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA12.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "TERBARU",
+    "title": "IKHLAS NGENTENI",
+    "image": "file:///android_asset/image/GGA.jpg",
+    "link_mp3": "mp3/GUTOPOWA13.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "LENGKAP",
+    "title": "LUNGAKU",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA14.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "LENGKAP",
+    "title": "PATAH HATI",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA15.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "LENGKAP",
+    "title": "TIBO MBURI",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA16.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "LENGKAP",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA17.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "LENGKAP",
+    "title": "KARMA",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA18.mp3",
+    "lyrics": "Ojo salahke aku<br>Wes nglarani atimu<br>Mergo kowe wes gawe tatu sumpah setiaku<br>Ojo salahke aku<br>Tak pilih ninggalke kowe<br>Wolak walek donya<br>Kowe keno karma ne<br><br>Uwes cukup leh ku gawe kowe nanggis<br>Uwes cukup leh ku gawe kowe tetangis<br>Senadyan ati iki ora tegel ndelokne<br>Ora bakal ku ndilat tresnoku bali neng kowe<br><br>Ojo salahke aku<br>Wes nglarani atimu<br>Mergo kowe wes gawe tatu sumpah setiaku<br>Ojo salahke aku<br>Tak pilih ninggalke kowe<br>Wolak walek donya<br>Kowe keno karma ne<br><br>Uwes cukup leh ku gawe kowe nanggis<br>Uwes cukup leh ku gawe kowe tetangis<br>Senadyan ati iki ora tegel ndelokne<br>Loroku sing mbiyen saiki balik neng kowe<br><br>Ojo salahke aku<br>Wes nglarani atimu<br>Mergo kowe wes gawe tatu sumpah setiaku<br>Ojo salahke aku<br>Tak pilih ninggalke kowe<br>Wolak walek donya<br>Kowe keno karma ne<br><br>Ojo salahke aku<br>Wes nglarani atimu<br>Mergo kowe wes gawe tatu sumpah setiaku<br>Ojo salahke aku<br>Tak pilih ninggalke kowe<br>Wolak walek donya<br>Kowe keno karma ne<br><br>Wolak walek donya<br>Kowe keno karma ne<br>Wolak walek donya<br>Kowe keno azab e<br>"
+  },
+  {
+    "id": 19,
+    "name_category": "LENGKAP",
+    "title": "KORBAN JANJI",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA19.mp3",
+    "lyrics": "Tanpo welas koe lungo biyen kae<br>Ra ono mesakne aku sitik wae<br>Ngaboti tresno anyarmu lalu kau tinggalkan aku<br>Tersakiti sendiri di malam itu<br><br>Koe lungo pas aku sayang-sayange<br>Tanpo pamit koe ngadoh ngono wae<br>Ngaboti tresno anyarmu lalu kau tinggalkan aku<br>Bersanding dengan kekasih barumu<br><br>Abot tak trimo kanti ikhlas legowo<br>Sing tak jalok koe ra disiyo-siyo<br>Ben cukup mung aku korban janji manismu<br>Udan bledek kang dadi saksiku<br><br>Koe lungo pas aku sayang-sayange<br>Ra mesake aku sitik wae<br>Ngaboti tresno anyarmu lalu kau tinggalkan aku<br>Bersanding dengan kekasih barumu<br><br>Abot tak trimo kanti ikhlas legowo<br>Sing tak jalok koe ra disiyo-siyo<br>Ben cukup mung aku korban janji manismu<br>Udan bledek kang dadi saksiku<br><br>Koe lungo pas aku sayang-sayange<br>Ra ono mesake aku sitik wae<br>Ngaboti tresno anyarmu lalu kau tinggalkan aku<br>Bersanding dengan kekasih barumu<br><br>Abot tak trimo kanti ikhlas legowo<br>Sing tak karep koe ra disiyo-siyo<br>Ben cukup mung aku korban janji manismu<br>Udan bledek kang dadi saksiku<br><br>Abot tak trimo kanti ikhlas legowo<br>Sing tak karep koe ra disiyo-siyo<br>Ben cukup mung aku korban janji manismu<br>Udan bledek kang dadi saksiku<br>Udan bledek kang dadi saksiku<br>"
+  },
+  {
+    "id": 20,
+    "name_category": "LENGKAP",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA20.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "LENGKAP",
+    "title": "ORA MASALAH",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA21.mp3",
+    "lyrics": "Kowe Pernah Ono Ning Atiku<br>Janji Ora Bakal Ninggalke Aku<br>Saikiki Kowe Lungo, Mblenjani Janjimu<br>Ninggalke Loro Ning Jero Dodo<br>Ora Masalah<br><br>Lambemu Sik Lamis Gawe Atiku Ke Iris<br>Ra Bakal Aku Nangis<br>Mergo Kui Wis Di Garis<br><br>Tresnomu Koyo Telo<br>Anane Mung Nyereti<br>Isone Gawe Loro<br>Lorone Ning Jero Ati<br><br>Urip Rasah Spaneng<br>Raono Kowe Aku Ayem<br>Urip Rasah Spaneng<br>Raono Kowe Aku Seneng<br><br>Tresnomu Uwis Luntur<br>Aku Tak Trimo Mundur<br>Ketimbang Gawe, Atiku Ajur<br><br>Lambemu Sik Lamis Gawe Atiku Ke Iris<br>Ra Bakal Aku Nangis<br>Mergo Kui Wis Di Garis<br><br>Tresnomu Koyo Telo<br>Anane Mung Nyereti<br>Isone Gawe Loro<br>Lorone Ning Jero Ati<br><br>Urip Rasah Spaneng<br>Raono Kowe Aku Ayem<br>Urip Rasah Spaneng<br>Raono Kowe Aku Seneng<br><br>Tresnomu Uwis Luntur<br>Aku Tak Trimo Mundur<br>Ketimbang Gawe, Atiku Ajur<br><br>Urip Rasah Spaneng<br>Raono Kowe Aku Ayem<br>Urip Rasah Spaneng<br>Raono Kowe Aku Seneng<br><br>Ora Masalah, Sabarku Turah Turah<br>Ketimbang Gawe Atiku Bubrah<br><br>Ketimbang Gawe Uripku Susah<br>"
+  },
+  {
+    "id": 22,
+    "name_category": "LENGKAP",
+    "title": "PAMER BOJO",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA22.mp3",
+    "lyrics": "Koyo ngene rasane wong nandang kangen<br>Rino wengi atiku rasane peteng<br>Tansah kelingan kepingin nyawang<br>Sedelo wae uwis emoh tenan<br><br><br>Cidro janji tegane kowe ngapusi<br>Nganti seprene suwene aku ngenteni<br>Nangis batinku nggrantes uripku<br>Teles kebes netes eluh neng dadaku<br><br><br>Dudu klambi anyar<br>Sing neng njero lemariku<br>Nanging bojo anyar<br>Sing mbok pamerke neng aku<br><br><br>Dudu wangi mawar<br>Sing tak sawang neng mripatku<br>Nanging kowe lali<br>Nglarani wong koyo aku<br><br><br>Nengopo seneng aku<br>Yen mung gawe laraku<br>Pamer bojo anyar<br>Neng ngarepku<br><br><br>Cidro janji tegane kowe ngapusi<br>Nganti seprene suwene aku ngenteni<br>Nangis batinku nggrantes uripku<br>Teles kebes netes eluh neng dadaku<br><br><br>Dudu klambi anyar<br>Sing neng njero lemariku<br>Nanging bojo anyar<br>Sing mbok pamerke neng aku<br><br><br>Dudu wangi mawar<br>Sing tak sawang neng mripatku<br>Nanging kowe lali<br>Nglarani wong koyo aku<br><br><br>Nengopo seneng aku<br>Yen mung gawe laraku<br>Pamer bojo anyar<br>Neng ngarepku<br><br><br>Nengopo seneng aku<br>Yen mung gawe laraku<br>Pamer bojo anyar<br>Neng ngarepku<br>Pamer bojo anyar<br>Neng ngarepku<br>"
+  },
+  {
+    "id": 23,
+    "name_category": "LENGKAP",
+    "title": "PENAK KONCO",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA23.mp3",
+    "lyrics": "Bedo Ranemu Dalane<br>Karo Koe Aku Raono Bahagiane<br>Timbang Gelo, Mung Disio-Sio <br>Rasah Digawe Dowo Crito Iki<br>Tresno Rabakal Iso Nyawiji<br><br>Abot Kesel Sing Ngrasakke<br>Karo Koe Anane Ming Rame Wae<br>Soyo Ajur Polahmu Soyo Ngawur<br>Mikir Awakmu Dewe, Karepmu Dewe<br>Tanpa Kelingan Janji Awale<br><br>Pancen Iki Dudu Jodone<br>Rasah Di Peksakke<br>Kabeh Iki Wes Ono Dalane<br>Percoyo Wae Gusti Mboten Nate Sare<br><br>Kowe Ratau Ngerteni<br>Roso Iki Kepati-Pati<br>Tibo Butuh Kowe Ngoleki<br>Aku Pie Kowe Ra Peduli<br><br>Ra Perlu Ngomogke Tresno<br>Yen Kui Mung Ngawe Loro<br>Ra Perlu Dolanan Roso<br>Awak Dewe Penak Konco<br><br>Pancen Iki Dudu Jodone<br>Rasah Di Peksakke<br>Kabeh Iki Wes Ono Dalane<br>Percoyo Wae Gusti Mboten Nate Sare<br><br>Kowe Ratau Ngerteni<br>Roso Iki Kepati-Pati<br>Tibo Butuh Kowe Ngoleki<br>Aku Pie Kowe Ra Peduli<br><br>Ra Perlu Ngomogke Tresno<br>Yen Kui Mung Ngawe Loro<br>Ra Perlu Dolanan Roso<br>Awak Dewe Penak Konco<br><br>Hooooo.....<br>Awak Dewe Penak Konco<br><br>Pancen Iki Dudu Jodone<br>Rasah Di Peksakke<br>"
+  },
+  {
+    "id": 24,
+    "name_category": "LENGKAP",
+    "title": "RASAH DADI PELANGI",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA24.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "LENGKAP",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/GGB.jpg",
+    "link_mp3": "mp3/GUTOPOWA25.mp3",
+    "lyrics": ""
+  }
+  ]
+}
