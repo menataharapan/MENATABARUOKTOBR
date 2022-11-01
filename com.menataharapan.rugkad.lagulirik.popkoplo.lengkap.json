@@ -1,0 +1,306 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"x",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "KOPLO A",
+    "image": "file:///android_asset/image/RA.png"
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO B",
+      "image": "file:///android_asset/image/RB.png"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "KOPLO A",
+    "title": "RUNGKAD",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP1.ogg",
+    "lyrics": "<p>Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan <br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Stop Mencintaimu</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "KOPLO A",
+    "title": "RUGNKAD HAPPY ASMARA",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP2.ogg",
+    "lyrics": "<p>Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Mungkin<br />Aku Terlalu Cinta<br />Aku Terlalu Sayang Nganti<br />Ra Kroso Dilarani</p><p><br />Pancen<br />Ku Akui Kusalah<br />Terlalu Percoyo Mergo<br />Mung Nyawang Rupo</p><p><br />Saiki Aku Wes Sadar<br />Terlalu Goblok Mencintaimu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p><p><br />Rungkad<br />Entek Entek an<br />Kelangan Koe Sing Paling Tak Sayang<br />Bondoku Melayang Tego Tenan<br />Tangis Tangisan</p><p><br />Rungkad<br />Entek Entekan<br />Tresno Tulusku Mung Dinggo Dolanan<br />Stop Mencintaimu<br />Gawe Aku Ngelu</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "KOPLO A",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP3.ogg",
+    "lyrics": "<p>Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman, sempet sayang, kok malah ngilang</p><p><br />Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang, ngek i harapan, koe milih liyane</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Langit e peteng, udane soyo deres klebus tekan atiku<br />Cedak e karo aku, nanging atimu dinggo wong liyo</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani</p><p><br />Wis dalane dadi pelarian<br />Dinggo sliramu sing lagi butuh hiburan<br />Aku sing sayang, aku sing berjuang<br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p><p><br />Bagianmu koyo biasane, bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "KOPLO A",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP4.ogg",
+    "lyrics": "<p>Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu</p><p><br />Sing tak tresnani<br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah<br />Nanging aku sing disalahke e</p><p><br />Mas perlu dingerteni<br />Teteg ke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah</p><p><br />Nanging aku sing disalahke eii<br />Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko<br />Mas perlu dingerteni</p><p><br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu<br />Senajan kowe mung nyepelekke<br />Nanging ati iki tetep tak kuatke<br />Sumpah ati iki</p><p><br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />Selawase tetept eteg atine</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "KOPLO A",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP5.ogg",
+    "lyrics": "<p>Wong ko ngene kok<br />Dibanding-bandingke? (Banding-bandingke)<br />Saing-saingke, yo mesti kalah<br />Ku berharap engkau mengerti<br />Di hati ini<br />Hanya ada kamu</p><p><br />Jelas bedo yen dibandingke<br />Ora ono sing tak pamerke<br />Aku ra iso yen kon gawe-gawe (kon gawe-gawe)<br />Jujur, sak onone</p><p><br />Sopo wonge sing ra loro ati?<br />Wis ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke?<br />Saing-saingke, yo mesti kalah<br />Tak oyak'o, aku yo ora mampu<br />Mung sak kuatku mencintaimu<br />Ku berharap engkau mengerti<br />Di hati ini<br />Hanya ada kamu</p><p><br />Sopo wonge sing ra loro ati?<br />Wis ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke?<br />Saing-saingke, yo mesti kalah<br />Tak oyak'o, aku yo ora mampu<br />Mung sak kuatku mencintaimu<br />Ku berharap engkau mengerti<br />Di hati ini<br />Hanya ada kamu</p><p><br />Wong ko ngene kok dibanding-bandingke?<br />Saing-saingke, yo mesti kalah<br />Tak oyak'o, aku yo ora mampu<br />Mung sak kuatku mencintaimu<br />Ku berharap engkau mengerti<br />Di hati ini<br />Hanya ada kamu</p><p><br />Ku berharap engkau mengerti<br />Di hati ini<br />Hanya ada kamu</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "KOPLO A",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP6.ogg",
+    "lyrics": "<p>Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penak e</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng ndedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas&shy;-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing pusing<br />Gek ndang dandan, ayo kita healing<br />Lanjutkan membaca artikel di bawah</p><p><br />Rasah pusing pusing<br />Gek ndang dandan<br />Ayo kita healing<br />Ayo kita healing</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "KOPLO A",
+    "title": "KOYO JOGJA ISTIMEWA",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP7.ogg",
+    "lyrics": "<p>mangan tempe rasane<br />koyo mangan lawuh sate<br />senajan sak anane<br />sing penting karo kowe</p><p><br />ngombe kembang tahu rasane<br />koyo ngombe susu<br />rausah mecucu<br />tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane<br />wong kang lagi gandrung<br />tak perjuangke<br />tekan janur melengkung</p><p><br />kowe siji sijine<br />aku bangga karo kowe<br />gelem nompo opo anane<br />tresnoku ra bakal mletre</p><p><br />kowe ojo sumelang<br />tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja<br />kowe cen istimewa</p><p><br />mangan tempe rasane koyo mangan lawuh sate<br />senajan sak anane, sing penting karo kowe<br />ngombe kembang tahu rasane koyo ngombe susu<br />rausah mecucu, tresnoku ro kowe ra bakal tak madu</p><p><br />bungah tenan rasane wong kang lagi gandrung<br />tak perjuangke tekan janur melengkung</p><p><br />kowe siji sijine, aku bangga karo kowe<br />gelem nompo opo anane, tresnoku ra bakal mletre<br />kowe ojo sumelang, tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja, kowe cen istimewa</p><p><br />kowe siji sijine, aku bangga karo kowe<br />gelem nompo opo anane, tresnoku ra bakal mletre<br />kowe ojo sumelang, tresnoku ra bakal ilang<br />ibarat koyo kuthoku jogja, kowe cen istimewa<br />ibarat koyo kuthoku jogja, kowe cen istimewa</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "KOPLO A",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP8.ogg",
+    "lyrics": "<p>Wes tak pupuk winihe katresnanku, kanggo awakmu<br />Dungoku tuku lemu urip ayem kanggo senengmu</p><p><br />Aku percoyo winih tresnamu, nandes mancep ing atiku<br />Opo kurang leh ku ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p><p><br />Aku ngenteni, aku ngertenimu huooo<br />Huoo&hellip; opo kurang lehku, ngerteni karepmu<br />Aku yo wis ora nglirik liyane<br />Nek kangen ngomong kangen, rasah tukaran ae<br />Mbok di eman eman hubungane</p><p><br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu<br />Uwong sing tak tresnani, tak gawe sandaran ati<br />Mbok ojo satru satru ae sayangku<br />Jajal rasah percoyo nek trimo kabar ko njobo<br />Aku kerjo, nguripimu nggo makmurne atimu</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "KOPLO A",
+    "title": "KOK ISO YO",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP9.ogg",
+    "lyrics": "<p>Kok iso yo?<br />Kok tegel yo?<br />Opo salahku?<br />Ning endi luputku?</p><p><br />Wong sing ra sepiro<br />Koyo aku iki<br />Masalah asmoro, mung kebagian loro</p><p><br />Ditinggal lungo, alesan ra cetho<br />Mergo ngaboti tresno anyarmu sing liyo<br />Gusti, tulung paringono<br />Ati sing kuat (ati sing kuat)<br />Kanggo ngadepi asmoro ugal-ugalan</p><p><br />Wayah mongso udan teko (wayah mongso udan teko)<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo? (Kok iso yo?)<br />Kok tegel yo? (Kok tegel yo?)<br />Wong koyo aku<br />Masalah asmoro, mung kebagian loro</p><p><br />Tibo wayah mongso udan teko<br />Howo adhem featuring-an loro<br />Durung siap nompo kenyataan<br />Kowe disanding wong liyo</p><p><br />Durung nganti garing lorone atiku<br />Uwis mbok tambahi kenyataan nggo ngadepi<br />Sliramu saiki disanding wong liyo</p><p><br />Tau nekat ku mencintaimu<br />Nanging kowe malah milih ngeboti tresno liyane<br />Ternyata aku dudu siji-sijine</p><p><br />Kok iso yo?</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "KOPLO A",
+    "title": "HELEH",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP10.ogg",
+    "lyrics": "<p>Loh kok mecucu ae <br />Ora niat mesem e <br />Enek salahku, mbok omongo wae , timbang gelo mburine<br />Helleh encep e esemu<br />Nantik - nantik ayumu<br />Yogane sinten , jan koyo emas inten <br />Gregetne nganti kuangen</p><p><br />Piye to ki kok geting aku<br />Piye to ki kok geting aku</p><p><br />Ora usah di ungkit yang lalu<br />Urip ora mung padu<br />Mbok ojo nesu - nesu sayang.<br />Ncen kabeh salah ku<br />Mpun mbanding-bandingke <br />Saing - saingke kalih liyane</p><p><br />Mbok wis leh mrengute, dibari padune , gek ndang pelaminan karuane</p><p><br />Loh kok mecucu ae <br />Ora niat mesem e <br />Enek salahku, mbok omongo wae , timbang gelo mburine</p><p><br />Helleh encep e esemu<br />Nantik - nantik ayumu<br />Yogane sinten , jan koyo emas inten <br />Gregetne nganti kuangen</p><p><br />Piye to ki kok geting aku<br />Piye to ki kok geting aku</p><p><br />Ora usah di ungkit yang lalu<br />Urip ora mung padu<br />Mbok ojo nesu - nesu sayang.<br />Ncen kabeh salah ku<br />Mpun mbanding-bandingke <br />Saing - saingke kalih liyane</p><p><br />Mbok wis leh mrengute, dibari padune , gek ndang pelaminan karuane</p>"
+  },
+  {
+    "id": 11,
+    "name_category": "KOPLO A",
+    "title": "SATRU 3",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP11.ogg",
+    "lyrics": "<p>Yen ono masalah<br />Iso ngomong apik apik sayang<br />Ojo terus ngilang gawe atiku bimbang<br />Rodo dewasa sitiklah ngapurane yen aku salah<br />Tresnoku ora berubah yo mung kowe aku pasrah</p><p><br />Masalah sepele iso dadi gede<br />Yen aku ro kowe iseh mikir egone dewe<br />Wis cukup sayang baliyo pulang<br />Bersamamu kukan tenang</p><p><br />Ko gething aku Ko gething aku<br />Tegone kowe ninggalke aku<br />Pas sayng sayangnge<br />Naliko tresno wis kadung jeru</p><p><br />Ko gething aku Ko gething aku<br />Opo pancen wis dadi nasibku<br />Balimu tak tunggu<br />Aku kangen esem lan guyumu</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "KOPLO A",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP12.ogg",
+    "lyrics": "<p>Nganti ndangak ndangak mase<br />Aku kalah sak sembarangane<br />Trus piye infone mase<br />Kadung jeru tresnoku neng dek e</p><p><br />Seng kono good looking mase<br />Neng kene mung spech e wong kere<br />Terus aku kudu piye<br />Opo yo kudu cidro slawase</p><p><br />Tak suguhi ati dudu kopi<br />Nanging bedo nglarani<br />Tak sanggane dewe lamun iki<br />Wes ndak kuat mase</p><p><br />Yo ndak mampu aku<br />Dudu spech idamanmu<br />Nuruti karepmu<br />Aku ninu ninu ninu</p><p><br />Yo ndak mampu aku<br />Dudu spek idamanmu<br />Nuruti karepmu<br />Aku ninu ninu ninu</p><p><br />Nganti ndangak ndangak mase<br />Aku kalah sak sembarangane<br />Trus piye infone mase<br />Kadung jeru tresnoku neng dek e</p><p><br />Seng kono good looking mase<br />Neng kene mung spech e wong kere<br />Terus aku kudu piye<br />Opo yo kudu cidro slawase</p><p><br />Tak suguhi ati dudu kopi<br />Nanging bedo nglarani<br />Tak sanggane dewe lamun iki<br />Wes ndak kuat mase</p><p><br />Yo ndak mampu aku dudu spech idamanmu<br />Nuruti karepmu aku ninu ninu ninu<br />Yo ndak mampu aku dudu spek idamanmu<br />Nuruti karepmu aku ninu ninu ninu</p><p><br />Yo ndak mampu aku dudu spech idamanmu<br />Nuruti karepmu aku ninu ninu ninu<br />Yo ndak mampu aku dudu spech idamanmu<br />Nuruti karepmu aku ninu ninu ninu</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "KOPLO A",
+    "title": "SEKO OPO ATIMU",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP13.ogg",
+    "lyrics": "<p>Dalane cerito aku ro koe<br />Wis akeh tantangane<br />Urip bareng karo koe<br />Mesti ono godane</p><p><br />Nanging koe mesti sabar<br />Dinggo aku atimu jembar<br />Ora mundur nggonmu nandur<br />Tresna ro aku ratau luntur</p><p><br />Seko opo atimu kui<br />Kuate ngungkuli wesi<br />Seko opo atimu kui<br />Ngadek jejeg sedajan tak larani</p><p><br />Saiki tresnaku yo mung nggo koe<br />Tak pasrahke kabeh sak ragane<br />Aku ikhlas yen sliramu dadi jodoku<br />Mung sewu siji wong koyo koe<br />Rabakal tak sia-siake<br />Muga aku ro koe iso tekan sak lawase</p><p><br />Seko opo atimu kui<br />Kuate ngungkuli wesi<br />Seko opo atimu kui<br />Ngadek jejeg sedajan tak larani</p><p><br />Saiki tresnaku yo mung nggo koe<br />Tak pasrahke kabeh sak ragane<br />Aku ikhlas yen sliramu dadi jodoku<br />Mung sewu siji wong koyo koe<br />Rabakal tak sia-siake<br />Muga aku ro koe iso tekan sak lawase</p><p><br />Saiki tresnaku yo mung nggo koe<br />Tak pasrahke kabeh sak ragane<br />Aku ikhlas yen sliramu dadi jodoku<br />Wutuh rasaku iki nggo sliramu<br />Rabakal ngelarani atimu<br />Muga aku ro koe iso tekan sak lawase</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "KOPLO A",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP14.ogg",
+    "lyrics": "<p>Wes tak cobo ngempet loro<br />Wes tak cobo njogo tresno<br />Loro sing tok jalari ora tak rasakke<br />Najan aku ngerti koe karo liyane</p><p><br />Cobo koe ono ning posisiku<br />Opo koe isoh kuat atimu<br />Ngrasakke tok larani<br />Ning sak bendinoku<br />Koe ra ngroso kok malah suloyo</p><p><br />Kulo pun angkat tangan<br />Atine pun ajur-ajuran<br />Kulo tak milih pamit<br />Ati kulo pun roso sakit</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Kulo pun angkat tangan<br />Atine pun ajur-ajuran<br />Kulo tak milih pamit<br />Ati kulo pun roso sakit</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Tak cobo goblok tetap mencintai<br />Sepenuh hati<br />Sepenuh hati</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "KOPLO A",
+    "title": "PINGAL",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP15.ogg",
+    "lyrics": "<p>Piye sek jelaske karo wongtuwo<br />Wes ngelakoni tekan semene<br />Nek akhire bakal bubar pisahan<br />Kowe kegudo tresno karo wong liyo</p><p><br />Ngelali kowe sing tau ngomong dewe<br />Ngelakoni tresno tekan tuwo<br />Ora ngeliyo mung aku ning atimu<br />Nanging saiki atimu ono wong liyo</p><p><br />Ibarat esuk mendung, awan aku kudanan<br />Sore mbok larani, bengi tak tangisi</p><p><br />Mung iso bayangke kabeh kenangan<br />Kowe tak boncengke, turut dalan kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ibarat esuk mendung, awan aku kudanan<br />Sore mbok larani, bengi tak tangisi</p><p><br />Mung iso bayangke kabeh kenangan<br />Kowe tak boncengke, turut dalan kekepan kudanan<br />Saiki nyatane kowe malah milih<br />Dikekep wong liyo</p><p><br />Opo kowe ra kroso abote atiku<br />Kudu kelangan wong sing paling tak tresnani<br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p><p><br />Ra jenak dolan, ra doyan mangan<br />Nek ra mbok dulang</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "KOPLO A",
+    "title": "RASAH DADI PELANGI",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "KOPLO A",
+    "title": "ANGEL 2",
+    "image": "file:///android_asset/image/RA.png",
+    "link_mp3": "mp3/RUNGPLOPOP17.ogg",
+    "lyrics": "<p>Rasah dadi pelangi dinggo matane dek'e<br />Cukup pisan wingi kowe hiasi atine<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Ngel, angel, angel, dikandani pancen angel<br />Njak ngono kuwi nek wis kadung tresno tetep ngeyel<br />Hatimu terbutakan oleh cinta palsunya<br />Rela rekasa, yang penting dia tetap bahagia</p><p><br />Rasah mencintai, menyayangi wong sing picek<br />Perjuanganmu ra tau dianggep dadi nyesek<br />Dia hanya bercanda, harusnya kau tertawa<br />Bukannya jatuh cinta, akhirnya kau terluka</p><p><br />Rasah dadi pelangi dinggo matane dek'e<br />Cukup pisan wingi kowe hiasi atine<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Suatu saat kowe bakal dadi ngerti<br />Koncomu ra pernah ngapusi nek kowe dilarani<br />Sakjane ora trimo kowe digawe loro<br />Saranku, diloske wae, OTW golek liyo</p><p><br />Mbok uwis stop leh getuni kabeh iki<br />Teko tenang, koncomu ra bakal neng endi-endi<br />Janji bakal ngancani, tekane kowe mari<br />Anggep wae mung mimpi, sesok ra dibaleni</p><p><br />Rasah dadi pelangi dinggo matane dek'e (pelangi nggo dek'e)<br />Cukup pisan wingi kowe hiasi atine (hiasi atine)<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu (konco ning sandingmu)<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Rasah dadi pelangi dinggo matane dek'e (pelangi nggo dek'e)<br />Cukup pisan wingi kowe hiasi atine (hiasi atine)<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu (konco ning sandingmu)<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p>"
+  },
+  {
+    "id": 18,
+    "name_category": "KOPLO B",
+    "title": "APA KABAR",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP18.ogg",
+    "lyrics": "<p>Apakabar wong sing tau tak sayang<br />Apakabar wong sing tau tak gawe nyaman<br />Susah seneng janjine bebarengan<br />Ning akhire koe lungo ninggal kenangan</p><p><br />Atiku ra bakal serapuh kui<br />Masalah percintaan tak piker keri<br />Masalalu ra perlu tak baleni<br />Teko tenang kabeh uwis tak gawe lali</p><p><br />Hey apa kabar mantanku sing tau neng atiku<br />Kelingan ra karo aku sing tau ngisi atimu<br />Mbien bubare mergo koe ono sing liyane<br />Waton minggat ninggal lungo aku sing ono neng kene</p><p><br />Tangise ati iki mergo koe sing jalari<br />Bahagiaku hancur ketika tresno iki di bagi<br />Cerita cinta sing tak bangun nganti tibo tangi<br />Terimakasih luka ini<br />Sekian ku pamit pergi</p><p><br />Apakabar wong sing tau tak sayang<br />Apakabar wong sing tau tak gawe nyaman<br />Susah seneng janjine bebarengan<br />Ning akhire koe lungo ninggal kenangan</p><p><br />Atiku ra bakal serapuh kui<br />Masalah percintaan tak piker keri<br />Masalalu ra perlu tak baleni<br />Teko tenang kabeh uwis tak gawe lali</p><p><br />Raiso di baleni getun kui tibo mburi<br />Koe mbien ra kelingan po pas aku mbok larani<br />Saiki koe ngemis njaluk aku akon bali<br />Yo sorry sepurane ati iki wis ra sudi</p><p><br />Saiki lungamu ora bakalan tak gondeli<br />Opo meneh ora mungkin nganti koe tak tangisi<br />Sementara tak ngene wae aku dewe wani<br />Matur sembah nuwun sanget sampun nate nglarani</p><p><br />Mas kang mas sing sepurane tenan<br />Mbiyen tau gawe atimu kelaran<br />Tak kiro dee iki luwih sayang<br />Jebul akhire tresnoku nggo dolanan</p><p><br />Po ra kroso sampean tak kangeni<br />Pengen dadi siji kabeh dibaleni<br />Tulong ngertio isi ati iki<br />Sumpah matiku rabakal tak larani</p><p><br />Apakabar wong sing tau tak sayang<br />Apakabar wong sing tau tak gawe nyaman<br />Susah seneng janjine bebarengan<br />Ning akhire koe lungo ninggal kenangan</p><p><br />Atiku ra bakal serapuh kui<br />Masalah percintaan tak piker keri<br />Masalalu ra perlu tak baleni<br />Teko tenang kabeh uwis tak gawe lali</p><p><br />Apakabar wong sing tau tak sayang<br />Apakabar wong sing tau tak gawe nyaman<br />Susah seneng janjine bebarengan<br />Ning akhire koe lungo ninggal kenangan</p><p><br />Atiku ra bakal serapuh kui<br />Masalah percintaan tak piker keri<br />Masalalu ra perlu tak baleni<br />Teko tenang kabeh uwis tak gawe lali</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "KOPLO B",
+    "title": "BALUNGA KERE",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP19.ogg",
+    "lyrics": "<p>Biyen aku tau kelangan<br />Nganti saiki isih kelingan<br />Kowe seng tak anti-anti<br />Bebrayan tekaning pati<br />Jebule mblenjani janji</p><p><br />Kabeh iki mergo kahanan<br />Ben iso nyukupi kebutuhan<br />Aku kerjo esuk sore<br />Nanging kowe sambat wae<br />Jaremu balungan kere</p><p><br />Opo pancen wes nasibku<br />Kudu pisahan karo sliramu<br />Jaremu arep nompo opo anane<br />Nanging nyatane<br />Tresnaku mbok sepelekke</p><p><br />Kudune kowe ngerteni<br />Kabeh mung titipane Gusti<br />Senajan atiku wes bubrah<br />Kandeli nggoning ibadah<br />Gusti sing paringi berkah<br />Senajan balungan kere<br />Ora kendo nyambut gawe</p><p><br />Senajan dalan ra alus<br />Sing penting wani terus<br />Kabeh iki mergo kahanan<br />Ben iso nyukupi kebutuhan<br />Aku kerjo esuk sore<br />Nanging kowe sambat wae<br />Jaremu balungan kere</p><p><br />Opo pancen wis nasibku<br />Kudu pisahan karo sliramu<br />Jaremu arep nompo opo anane<br />Nanging nyatane<br />Tresnaku mbok sepelekke</p><p><br />Kudune kowe ngerteni<br />Kabeh mung titipane Gusti<br />Senajan atiku wes bubrah<br />Kandeli nggoning ibadah<br />Gusti sing paringi berkah</p><p><br />Senajan atiku wes bubrah<br />Kandeli nggoning ibadah<br />Gusti sing paringi berkah</p>"
+  },
+  {
+    "id": 20,
+    "name_category": "KOPLO B",
+    "title": "DALAN LIYANE",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "KOPLO B",
+    "title": "DEMI KOWE",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "KOPLO B",
+    "title": "KESUCIAN ATI",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "KOPLO B",
+    "title": "LINTANG SEWNGI",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "KOPLO B",
+    "title": "MENDUNG TANPO UDAN",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "KOPLO B",
+    "title": "NGELIYO",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "KOPLO B",
+    "title": "PASUKAN ANTI PREI",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "KOPLO B",
+    "title": "RUNGOKNO AKU",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "KOPLO B",
+    "title": "TAK TUNGGU BALIMU",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "KOPLO B",
+    "title": "TANPO TRESNAMU",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "KOPLO B",
+    "title": "TITIPANE GUSTI",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP30.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "KOPLO B",
+    "title": "WEGAH PISAH",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP31.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 32,
+    "name_category": "KOPLO B",
+    "title": "WONG SEPELE",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP32.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 33,
+    "name_category": "KOPLO B",
+    "title": "YO WIS",
+    "image": "file:///android_asset/image/RB.png",
+    "link_mp3": "mp3/RUNGPLOPOP33.ogg",
+    "lyrics": ""
+  }
+  ]
+}
