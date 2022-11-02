@@ -1,0 +1,234 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"qwert12345",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "SHOLAWAT SUNDA A",
+    "image": "file:///android_asset/image/KA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT SUNDA B",
+      "image": "file:///android_asset/image/KB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Allahuma",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloallahumma.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Azza Wajjala",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloazzawajalla.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Kawakih",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/kelokawakih.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Rosulallah",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/kelorosulallah.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Sholatun",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/kelosholatun.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Ya Muhaimin",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloyamuhaimin.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Ya Nabi",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloyanabi.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Ya Nabi Salam",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloyanabisalam.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Ya Rabana",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloyarobbana.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Ya Rabuna",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/keloyarobbuna.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Deen Assalam",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/zkelodenna.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "SHOLAWAT SUNDA A",
+    "title": "Qomarun",
+    "image": "file:///android_asset/image/KA.jpg",
+    "link_mp3": "mp3/zkeloqomar.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Rohman Ya Rohman",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkelorohma.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Asiqol Mustofa",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkeloyaasiqo.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Habibal Qolbi",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkeloyahabiba.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Jamalu",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkeloyajama.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Maulana",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkeloyamaul.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Nabi Salam",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/zkeloyanabisalam.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Allahul Kaafi",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZZKELALLHLKFIDA.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Man Ana",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZZKELMANANADA.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Ya Tarim",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZZKELYTRMDA.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Anak Adam",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZSUNANKADAMDA.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Nartas",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZSUNNARATASDA.mp3",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "SHOLAWAT SUNDA B",
+    "title": "Turaes",
+    "image": "file:///android_asset/image/KB.jpg",
+    "link_mp3": "mp3/ZSUNTURAESDA.mp3",
+    "lyrics": ""
+  }
+  ]
+}
